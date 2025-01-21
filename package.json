@@ -1,0 +1,22 @@
+{
+  "name": "common-css",
+  "version": "1.0.0",
+  "description": "An npm package to use common css for different projects ",
+  "main": "index.css",
+  "scripts": {
+    "test": "npm run test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashhh230/common-css-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Yash Panchal",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Yashhh230/common-css-package/issues"
+  },
+  "homepage": "https://github.com/Yashhh230/common-css-package#readme"
+}
