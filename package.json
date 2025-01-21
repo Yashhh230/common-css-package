@@ -1,5 +1,5 @@
 {
-  "name": "@yash-panchal/common-css",
+  "name": "project-common-css-package",
   "version": "1.0.0",
   "description": "An npm package to use common css for different projects ",
   "main": "index.css",
